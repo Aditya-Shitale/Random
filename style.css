@@ -1,0 +1,57 @@
+/* .item{
+    color: coral;
+}
+*/
+/* .class{
+    color: coral;
+}  */
+
+body{
+    background-color: palevioletred;
+    /* background-image: url('../img/4223502.jpg'); */
+    background-repeat: repeat;
+    background-position: right top;
+ 
+}
+
+nav{
+background-color: darkseagreen;
+
+}
+.item{
+    /* background-color: red; */
+    background-color: black;
+    background-size: 24px;
+    display: inline;
+    word-spacing: 100px;
+
+
+}
+.items{
+    /* background-color: red; */
+    background-color: black;
+    display: inline;
+
+
+}
+.class{
+    /* border-style: solid; */
+    /* border-top-style: dashed; */
+    /* border-width: 2px;
+    border-color: aquamarine; */
+    border: 5px solid green;
+    border-radius: 18px;
+    margin: 50px;
+    padding: 50px;
+    width: 50%;
+    height: 455px;
+    outline: 4px solid black;
+    color: rgb(45, 45, 49);
+    text-align: right;
+}
+
+a:hover{
+    background-color: rgb(136, 136, 136);
+    color: black;
+
+}
